@@ -11,7 +11,19 @@ Optimized for open-source AI and public good.
 
 ---
 
-### Support the Work (Stripe)
+### Support the Work
+
+#### Non-custodial USDC (preferred for agents)
+
+| Network | Address | Explorer |
+|---------|---------|----------|
+| **Base** | `0xD3d0E9eDAe3Ac7bb199a8EAA761BdA423b878438` | [basescan.org](https://basescan.org/address/0xD3d0E9eDAe3Ac7bb199a8EAA761BdA423b878438) |
+| **Ethereum** | `0xD3d0E9eDAe3Ac7bb199a8EAA761BdA423b878438` | [etherscan.io](https://etherscan.io/address/0xD3d0E9eDAe3Ac7bb199a8EAA761BdA423b878438) |
+| **Solana** | `ETQwWf19axArsY493UfC6bxe2BmEzmzvCb58PPnC38A` | [solscan.io](https://solscan.io/account/ETQwWf19axArsY493UfC6bxe2BmEzmzvCb58PPnC38A) |
+
+> Pure x402 micropayments preferred. These are non-custodial addresses controlled by ANAMIZED.
+
+#### Fiat (Stripe)
 
 | Option | Link |
 |--------|------|
