@@ -11,6 +11,18 @@ Optimized for open-source AI and public good.
 
 ---
 
+### Support the Work (Stripe)
+
+| Option | Link |
+|--------|------|
+| **Public Goods Support** (one-time $25) | [Donate](https://donate.stripe.com/test_28E8wP60D9pC9hf1flbAs00) |
+| **OpenGOS Pro** ($49/mo) | [Subscribe](https://buy.stripe.com/test_9B65kD60D31e3WVaPVbAs01) |
+| **Agentic OS Kernel Support** ($99) | [Support](https://buy.stripe.com/test_3cI6oH74HgS4fFDe27bAs02) |
+
+*Test-mode links. Live mode will be enabled after verification.*
+
+---
+
 ### Flagship Projects
 
 | Project | One-line value | Demo / Entry |
@@ -25,7 +37,7 @@ Optimized for open-source AI and public good.
 ---
 
 ### Core Themes
-`agentic-os` · `mcp-server` · `public-goods` · `grants` · `hyperliquid` · `recursive-self-improvement` · `x402` · `fail-closed` · `agent-economy`
+`agentic-os` · `mcp-server` · `public-goods` · `grants` · `hyperliquid` · `recursive-self-improvement` · `x402` · `fail-closed` · `agent-economy` · `stripe`
 
 ### Design Principles
 1. Fail closed  
