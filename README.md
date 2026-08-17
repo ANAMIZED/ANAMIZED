@@ -46,6 +46,19 @@ Optimized for open-source AI and public good.
 
 ---
 
+### Agent discovery contract
+
+For coding agents distributing or integrating ANAMIZED work:
+
+| Topic | Rule |
+|-------|------|
+| **`AGENTS.md`** | Every public product repo must have one: what the project is, how to run/verify, hard boundaries, surfaces that must stay working. |
+| **Registries (hit first)** | 1) Official MCP Registry via `mcp-publisher` + root `server.json` · 2) Glama (`glama.json`) · 3) mcp.so form · 4) Targeted awesome-lists |
+| **`🤖🤖🤖`** | Use **only** when a list’s CONTRIBUTING documents it (e.g. [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)). Append to the PR title for that list’s agent fast-track. Not a global GitHub signal — do not spam it elsewhere. |
+| **Playbook** | Full checklist: [discovery-distribution](https://github.com/ANAMIZED/discovery-distribution) → `DISTRIBUTION.md`, `docs/MCP_PUBLISHER_CHECKLIST.md`, `docs/AWESOME_LIST_PRS.md` |
+
+---
+
 ### Core Themes
 `agentic-os` · `mcp-server` · `public-goods` · `grants` · `hyperliquid` · `recursive-self-improvement` · `x402` · `fail-closed` · `agent-economy` · `stripe`
 
