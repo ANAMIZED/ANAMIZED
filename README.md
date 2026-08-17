@@ -15,11 +15,9 @@ Optimized for open-source AI and public good.
 
 | Option | Link |
 |--------|------|
-| **Public Goods Support** (one-time $25) | [Donate](https://donate.stripe.com/test_28E8wP60D9pC9hf1flbAs00) |
-| **OpenGOS Pro** ($49/mo) | [Subscribe](https://buy.stripe.com/test_9B65kD60D31e3WVaPVbAs01) |
-| **Agentic OS Kernel Support** ($99) | [Support](https://buy.stripe.com/test_3cI6oH74HgS4fFDe27bAs02) |
-
-*Test-mode links. Live mode will be enabled after verification.*
+| **Public Goods Support** (one-time $25) | [Donate](https://donate.stripe.com/00w5kE3wOg5L8Jn2F243S00) |
+| **OpenGOS Pro** ($49/mo) | [Subscribe](https://buy.stripe.com/7sY8wQ5EWf1H3p3bby43S01) |
+| **Agentic OS Kernel Support** ($99) | [Support](https://buy.stripe.com/bJecN63wObPv6Bf7Zm43S02) |
 
 ---
 
