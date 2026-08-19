@@ -56,6 +56,15 @@ Optimized for open-source AI and public good.
 
 ---
 
+### Research Alignment (FOUNDRY)
+
+FOUNDRY (host-owned trust and memory for long-horizon agent swarms) separates untrusted proposal generation from host-owned verification + established-facts registry. ANAMIZED kernels implement the complementary production boundary: every mutation is forced through a fail-closed, event-sourced, evidence-gated promotion path (LRSI / rui / server-os / openmesha / YodMCP). Host owns the evaluator; agents propose.
+
+- [YodMCP Pro](https://buy.stripe.com/bJe3cw0kCaLrbVz1AY43S09) — durable multi-graph memory + plan-based runtime
+- [Agentic OS Kernel Support](https://buy.stripe.com/bJecN63wObPv6Bf7Zm43S02)
+
+---
+
 ### Agent discovery contract
 
 For coding agents distributing or integrating ANAMIZED work:
