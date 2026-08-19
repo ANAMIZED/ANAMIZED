@@ -23,13 +23,22 @@ Optimized for open-source AI and public good.
 
 > Pure x402 micropayments preferred. These are non-custodial addresses controlled by ANAMIZED.
 
-#### Fiat (Stripe)
+#### Fiat (Stripe) — live catalog
 
 | Option | Link |
 |--------|------|
 | **Public Goods Support** (one-time $25) | [Donate](https://donate.stripe.com/00w5kE3wOg5L8Jn2F243S00) |
+| **Agentic Systems Consulting Hour** ($199) | [Book](https://buy.stripe.com/dRmaEYgjA9Hnf7LdjG43S0b) |
 | **OpenGOS Pro** ($49/mo) | [Subscribe](https://buy.stripe.com/7sY8wQ5EWf1H3p3bby43S01) |
+| **RUI Pro** ($49/mo) | [Subscribe](https://buy.stripe.com/aFacN65EW5r7e3HgvS43S08) |
+| **YodMCP Pro** ($49/mo) | [Subscribe](https://buy.stripe.com/bJe3cw0kCaLrbVz1AY43S09) |
+| **YodMCP Enterprise** ($499/mo) | [Subscribe](https://buy.stripe.com/9B68wQ1oGcTz9NrfrO43S0a) |
 | **Agentic OS Kernel Support** ($99) | [Support](https://buy.stripe.com/bJecN63wObPv6Bf7Zm43S02) |
+| **RUI Kernel Support** ($99) | [Support](https://buy.stripe.com/4gMaEY1oG6vbf7LfrO43S07) |
+| **Agentic OS Cycle** (pay-per-use $0.75) | [Buy](https://buy.stripe.com/3cI14o8R8dXD3p3frO43S04) |
+| **Agentic Trading Decision Cycle** ($4) | [Buy](https://buy.stripe.com/bJedRaebsaLr2kZ2F243S05) |
+| **OpenGOS Advanced Search** ($0.40) | [Buy](https://buy.stripe.com/7sY8wQ5EW3iZ5xb5Re43S06) |
+| **OpenGOS Proposal Draft** ($2.50) | [Buy](https://buy.stripe.com/9B69AUd7o7zf2kZ2F243S03) |
 
 ---
 
@@ -40,6 +49,7 @@ Optimized for open-source AI and public good.
 | **[OpenGOS](https://github.com/ANAMIZED/OpenGOS)** | MCP server for grants discovery, ranking, drafting + public-goods funding | [Interactive shell](https://htmlpreview.github.io/?https://github.com/ANAMIZED/OpenGOS/blob/main/opengos.html) |
 | **[LRSI](https://github.com/ANAMIZED/LRSI)** | Local Recursive Self-Improvement — sovereign closed-loop agentic OS kernel on dual Blackwell | Verify + MCP |
 | **[server-os](https://github.com/ANAMIZED/server-os)** | Agents as processes with cost, governance, MCP, SDK, CLI & skills | [Web control plane](https://github.com/ANAMIZED/server-os/blob/main/web/server-os.html) |
+| **[YodMCP](https://github.com/ANAMIZED/YodMCP)** | Ultimate Autonomous MCP Server / Agent Operating System (multi-graph memory, TEE, skills) | MCP + Pro/Enterprise |
 | **[agenticarb](https://github.com/ANAMIZED/agenticarb)** | Risk-first agentic OS for Hyperliquid RWA perpetual funding-rate strategies | [Interactive Desk](https://anamized.github.io/agenticarb/) |
 | **[x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflare-starter)** | Cleanest USDC micropayments (Base + Solana) for agents — no Coinbase required | One-click Cloudflare |
 | **[edge-os](https://github.com/ANAMIZED/edge-os)** / **[rui](https://github.com/ANAMIZED/rui)** / **[openmesha](https://github.com/ANAMIZED/openmesha)** | Edge & recursive ultra-intelligence agentic OS variants | See READMEs |
@@ -70,6 +80,6 @@ For coding agents distributing or integrating ANAMIZED work:
 5. Senior engineer can deploy from README alone  
 
 ### Hire / Collaborate
-Available for agent infrastructure design, MCP development, public-goods systems, and risk-aware autonomous trading stacks.
+Available for agent infrastructure design, MCP development, public-goods systems, and risk-aware autonomous trading stacks. Book a [Consulting Hour](https://buy.stripe.com/dRmaEYgjA9Hnf7LdjG43S0b).
 
 **Star the projects that interest you — it helps discovery.**
