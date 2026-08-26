@@ -13,6 +13,17 @@ Optimized for open-source AI and public good.
 
 ### Support the Work
 
+#### First dollar
+
+| Option | Stripe | x402 |
+|--------|--------|------|
+| **OpenGOS Advanced Search** $0.40 | [Buy](https://buy.stripe.com/7sY8wQ5EW3iZ5xb5Re43S06) | `GET /v1/search` |
+| **Agentic OS Cycle** $0.75 | [Buy](https://buy.stripe.com/3cI14o8R8dXD3p3frO43S04) | `GET /v1/cycle` |
+| **OpenGOS Proposal Draft** $2.50 | [Buy](https://buy.stripe.com/9B69AUd7o7zf2kZ2F243S03) | `GET /v1/draft` |
+| **Public Goods Support** $25 | [Donate](https://donate.stripe.com/00w5kE3wOg5L8Jn2F243S00) | USDC |
+
+Agent rail: [x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflare-starter) · Desk: [anamized.grok.me](https://anamized.grok.me)
+
 #### Non-custodial USDC (preferred for agents)
 
 | Network | Address | Explorer |
@@ -23,11 +34,10 @@ Optimized for open-source AI and public good.
 
 > Pure x402 micropayments preferred. These are non-custodial addresses controlled by ANAMIZED.
 
-#### Fiat (Stripe) — live catalog
+#### Fiat (Stripe) — seats and support
 
 | Option | Link |
 |--------|------|
-| **Public Goods Support** (one-time $25) | [Donate](https://donate.stripe.com/00w5kE3wOg5L8Jn2F243S00) |
 | **Agentic Systems Consulting Hour** ($199) | [Book](https://buy.stripe.com/dRmaEYgjA9Hnf7LdjG43S0b) |
 | **OpenGOS Pro** ($49/mo) | [Subscribe](https://buy.stripe.com/7sY8wQ5EWf1H3p3bby43S01) |
 | **RUI Pro** ($49/mo) | [Subscribe](https://buy.stripe.com/aFacN65EW5r7e3HgvS43S08) |
@@ -35,10 +45,7 @@ Optimized for open-source AI and public good.
 | **YodMCP Enterprise** ($499/mo) | [Subscribe](https://buy.stripe.com/9B68wQ1oGcTz9NrfrO43S0a) |
 | **Agentic OS Kernel Support** ($99) | [Support](https://buy.stripe.com/bJecN63wObPv6Bf7Zm43S02) |
 | **RUI Kernel Support** ($99) | [Support](https://buy.stripe.com/4gMaEY1oG6vbf7LfrO43S07) |
-| **Agentic OS Cycle** (pay-per-use $0.75) | [Buy](https://buy.stripe.com/3cI14o8R8dXD3p3frO43S04) |
 | **Agentic Trading Decision Cycle** ($4) | [Buy](https://buy.stripe.com/bJedRaebsaLr2kZ2F243S05) |
-| **OpenGOS Advanced Search** ($0.40) | [Buy](https://buy.stripe.com/7sY8wQ5EW3iZ5xb5Re43S06) |
-| **OpenGOS Proposal Draft** ($2.50) | [Buy](https://buy.stripe.com/9B69AUd7o7zf2kZ2F243S03) |
 
 ---
 
@@ -60,6 +67,8 @@ Optimized for open-source AI and public good.
 
 FOUNDRY (host-owned trust and memory for long-horizon agent swarms) separates untrusted proposal generation from host-owned verification + established-facts registry. ANAMIZED kernels implement the complementary production boundary: every mutation is forced through a fail-closed, event-sourced, evidence-gated promotion path (LRSI / rui / server-os / openmesha / YodMCP). Host owns the evaluator; agents propose.
 
+- [docs/FOUNDRY.md on OpenGOS](https://github.com/ANAMIZED/OpenGOS/blob/main/docs/FOUNDRY.md) — grants propose / host verifies
+- [docs/FOUNDRY.md on YodMCP](https://github.com/ANAMIZED/YodMCP/blob/main/docs/FOUNDRY.md) — facts registry
 - [YodMCP Pro](https://buy.stripe.com/bJe3cw0kCaLrbVz1AY43S09) — durable multi-graph memory + plan-based runtime
 - [Agentic OS Kernel Support](https://buy.stripe.com/bJecN63wObPv6Bf7Zm43S02)
 
