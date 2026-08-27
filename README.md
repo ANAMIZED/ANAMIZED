@@ -20,6 +20,7 @@ Optimized for open-source AI and public good.
 | **OpenGOS Advanced Search** $0.40 | [Buy](https://buy.stripe.com/7sY8wQ5EW3iZ5xb5Re43S06) | `GET /v1/search` |
 | **Agentic OS Cycle** $0.75 | [Buy](https://buy.stripe.com/3cI14o8R8dXD3p3frO43S04) | `GET /v1/cycle` |
 | **OpenGOS Proposal Draft** $2.50 | [Buy](https://buy.stripe.com/9B69AUd7o7zf2kZ2F243S03) | `GET /v1/draft` |
+| **Trading Decision Cycle** $4.00 | [Buy](https://buy.stripe.com/bJedRaebsaLr2kZ2F243S05) | `GET /v1/trading` |
 | **Public Goods Support** $25 | [Donate](https://donate.stripe.com/00w5kE3wOg5L8Jn2F243S00) | USDC |
 
 Agent rail: [x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflare-starter) · Desk: [anamized.grok.me](https://anamized.grok.me)
@@ -30,7 +31,7 @@ Agent rail: [x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflar
 |---------|---------|----------|
 | **Base** | `0xD3d0E9eDAe3Ac7bb199a8EAA761BdA423b878438` | [basescan.org](https://basescan.org/address/0xD3d0E9eDAe3Ac7bb199a8EAA761BdA423b878438) |
 | **Ethereum** | `0xD3d0E9eDAe3Ac7bb199a8EAA761BdA423b878438` | [etherscan.io](https://etherscan.io/address/0xD3d0E9eDAe3Ac7bb199a8EAA761BdA423b878438) |
-| **Solana** | `ETQwWf19axArsY493UfC6bxe2BmEzmzvCb58PPnC38A` | [solscan.io](https://solscan.io/account/ETQwWf19axArsY493UfC6bxe2BmEzmzvCb58PPnC38A) |
+| **Solana** | `ETQwWf19axArsY493UfC6bxe2BmEzmzvCb58PPnC38A` | [solscan.io/account/ETQwWf19axArsY493UfC6bxe2BmEzmzvCb58PPnC38A) |
 
 > Pure x402 micropayments preferred. These are non-custodial addresses controlled by ANAMIZED.
 
@@ -45,7 +46,6 @@ Agent rail: [x402-cloudflare-starter](https://github.com/ANAMIZED/x402-cloudflar
 | **YodMCP Enterprise** ($499/mo) | [Subscribe](https://buy.stripe.com/9B68wQ1oGcTz9NrfrO43S0a) |
 | **Agentic OS Kernel Support** ($99) | [Support](https://buy.stripe.com/bJecN63wObPv6Bf7Zm43S02) |
 | **RUI Kernel Support** ($99) | [Support](https://buy.stripe.com/4gMaEY1oG6vbf7LfrO43S07) |
-| **Agentic Trading Decision Cycle** ($4) | [Buy](https://buy.stripe.com/bJedRaebsaLr2kZ2F243S05) |
 
 ---
 
@@ -69,6 +69,7 @@ FOUNDRY (host-owned trust and memory for long-horizon agent swarms) separates un
 
 - [docs/FOUNDRY.md on OpenGOS](https://github.com/ANAMIZED/OpenGOS/blob/main/docs/FOUNDRY.md) — grants propose / host verifies
 - [docs/FOUNDRY.md on YodMCP](https://github.com/ANAMIZED/YodMCP/blob/main/docs/FOUNDRY.md) — facts registry
+- [docs/FOUNDRY.md on RUI](https://github.com/ANAMIZED/Recursive-UltraIntelligence-RUI/blob/main/docs/FOUNDRY.md) — promotion gates
 - [YodMCP Pro](https://buy.stripe.com/bJe3cw0kCaLrbVz1AY43S09) — durable multi-graph memory + plan-based runtime
 - [Agentic OS Kernel Support](https://buy.stripe.com/bJecN63wObPv6Bf7Zm43S02)
 
